@@ -1,7 +1,7 @@
 ## Hey, I'm Parth Mhatre
 
 
-**pthmhatre/pthmhatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pthmhatre/pthmhatre** Backend and AI/ML Developer
 
 Here are some ideas to get you started:
 
