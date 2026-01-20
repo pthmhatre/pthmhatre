@@ -105,8 +105,7 @@ I’m passionate about:
 ## 📫 Connect With Me
 
 - 📧 Email: parthmhatre6666@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link-here  
-- 🧑‍💻 GitHub: https://github.com/your-username  
+- 💼 LinkedIn: https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/parth-mhatre-060502mbd/
 
 ---
 
